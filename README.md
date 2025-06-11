@@ -27,4 +27,5 @@ File: `sql/queries.sql`
 ## 📊 Dashboard
 
 Looker Studio: interactive dashboard with filters  
-Screenshot and link — in the `screenshots/` folder
+
+![image](https://github.com/user-attachments/assets/04e9afce-f96b-4bb7-9c3b-4667a98f2145)
